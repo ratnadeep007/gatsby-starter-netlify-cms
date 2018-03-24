@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Testing out
 date: 2018-03-24T08:05:20.614Z
-description: This is a post for testing out Netlify CMS
+description: This is a post for testing out Netlify CMS.
 tags:
   - chemex
 ---
